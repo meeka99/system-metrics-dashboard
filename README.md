@@ -23,6 +23,21 @@ This project is a Flask-based web application that monitors and displays real-ti
 - pip (Python package manager)
 - Docker (optional, for containerized deployment)
 
+- ## Screenshots
+
+### Dashboard
+![Dashboard](https://github.com/meeka99/meeka99/blob/main/Screenshot%202024-12-15%20002803.png?raw=true)
+
+### CPU Usage Graph
+![CPU Usage Graph](https://github.com/meeka99/meeka99/blob/main/Screenshot%202024-12-15%20002812.png?raw=true)
+
+### RAM Usage Graph
+![RAM Usage Graph](https://github.com/meeka99/meeka99/blob/main/Screenshot%202024-12-15%20002821.png?raw=true)
+
+### Disk Free Space Graph
+![Disk Free Space Graph](https://github.com/meeka99/meeka99/blob/main/Screenshot%202024-12-15%20002828.png?raw=true)
+
+
 ### Local Setup
 1. Clone the repository:
    ```bash
